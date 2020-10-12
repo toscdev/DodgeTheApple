@@ -1,10 +1,12 @@
+<p align="center">
+<img src="images/logo.png" alt="Kingfisher" title="Kingfisher" width="557"/>
+</p>
+
 # Dodge The Apple
 
 A simple game made with libGDX. This game was made during my studies for a university course in early 2016.
 
-![Start](screenshots/screenshot_1.jpg)
-![Game](screenshots/screenshot_2.jpg)
-![Game Over](screenshots/screenshot_3.jpg)
+![Screenshots](images/screenshots.jpg)
 
 ## Game instructions
 
